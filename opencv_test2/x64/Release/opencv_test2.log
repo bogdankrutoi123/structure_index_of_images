@@ -1,0 +1,19 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (opencv_test2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  opencv_test2.cpp
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(22,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(150,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244: =: преобразование "_Tp" в "_Tp", возможна потеря данных
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         with
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         [
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:             _Tp=float
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         ]
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         and
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         [
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:             _Tp=uchar
+C:\Users\User\source\repos\opencv_test2\opencv_test2\opencv_test2.cpp(163,58): warning C4244:         ]
+  Создание кода
+  34 of 251 functions (13.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  opencv_test2.vcxproj -> C:\Users\User\source\repos\opencv_test2\x64\Release\quality_index.exe
